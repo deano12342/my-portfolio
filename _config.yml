@@ -6,27 +6,30 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko # <--- 한국어로 변경
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Seoul # <--- 한국 시간으로 변경
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+title: Deano's Blog # <--- 블로그 제목 수정
+tagline: Welcome to my new blog! # <--- 부제목 수정
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A new blog powered by Jekyll and the Chirpy theme.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "deano123.github.io"
+url: "https://deano123.github.io" # <--- 가장 중요! https:// 추가
+
+# The base URL of your site. Note that it does not end with a '/'.
+# For example, '/blog'.
+baseurl: "" # <--- 여기에 빈 값으로 설정하는 것이 올바른 위치입니다.
 
 github:
-  username: github_username # change to your GitHub username
+  username: deano12342 # <--- 님의 GitHub 아이디로 수정
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: deano12342
+  name: Your Name # <--- 님의 이름으로 수정
   email: deano12342@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/deano12342 # change to your GitHub homepage
+    - https://github.com/deano123 # <--- 님의 GitHub 홈페이지로 수정
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -148,9 +151,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
