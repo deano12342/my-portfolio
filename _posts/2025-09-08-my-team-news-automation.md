@@ -52,7 +52,7 @@ tags: [업무자동화, 뉴스클리핑, n8n, gpt]
     * AI가 최종 선별한 뉴스들을 바탕으로, 깔끔한 HTML 형식의 이메일 본문을 자동 생성합니다.
     * 생성된 리포트는 지정된 팀원들의 이메일로 자동 발송됩니다.
 
-![발송된 뉴스레터 본문 이미지](assets/img/food-retail-example.png)
+![발송된 뉴스레터 본문 이미지](/assets/img/food-retail-example.png)
 
 
 
