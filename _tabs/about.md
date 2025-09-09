@@ -1,8 +1,22 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 사무직의 AI 활용, 어디까지 가능할까?
+
+**바야흐로 AI의 활용이 능력이 되는 시대입니다.**
+
+> 개발 분야에 문외한인 사무직이 실무에 AI를 활용하는 것은 한계가 있지 않을까 고민하던 제가,
+> 자발적으로 AI를 공부하고 이런저런 도구를 직접 만들어보며 얻은 **아이디어와 워크플로우**를 공유합니다.
+
+---
+
+### 이 블로그에서는 이런 이야기들을 다룹니다
+
+* 사무 업무를 더 스마트하게 만들어 줄 **AI 활용 아이디어**
+* 반복적인 일을 줄여주는 **업무 자동화 워크플로우**
+* 개발자가 아니어도 사용할 수 있는 **다양한 AI 도구 사용법과 후기**
+
+이 공간이 저와 같은 고민을 하는 많은 분들께 작은 도움이 되기를 바랍니다.
