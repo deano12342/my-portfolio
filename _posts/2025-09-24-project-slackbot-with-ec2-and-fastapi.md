@@ -18,7 +18,7 @@ tags: [aws, ec2, fastapi, python, openai, pinecone, slack, chatbot, portfolio]
 **구축 과정에서 AI의 조언을 구하는 것을 주저하지 마세요!** 모든 코드 작성에는 AI의 보조가 있었습니다.
 
 
-![챗봇 가동 화면](/assets/img/chat-bot-example.gif)
+![챗봇 가동 화면](/assets/img/chatbotexample.gif)
 
 <br>
 
