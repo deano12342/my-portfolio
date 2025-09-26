@@ -27,10 +27,10 @@ url: "https://deano12342.github.io"
 
 # The base URL of your site. Note that it does not end with a '/'.
 # For example, '/blog'.
-baseurl: ""
+baseurl: "/my-portfolio"
 
 github:
-  username: deano12332 # change to your GitHub username
+  username: deano12342 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
